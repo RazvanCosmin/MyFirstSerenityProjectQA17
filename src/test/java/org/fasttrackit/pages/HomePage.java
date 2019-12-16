@@ -24,4 +24,9 @@ public class HomePage extends PageObject {
     }
 
 
+    public void clickSearchButton() {
+    }
+
+    public void setSearchField(String text) {
+    }
 }
